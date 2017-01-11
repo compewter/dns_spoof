@@ -1,0 +1,20 @@
+{
+  "name": "dns_spoof",
+  "version": "1.0.0",
+  "description": "Simple DNS spoofer",
+  "main": "dns.js",
+  "dependencies": {
+    "dns-packet": "^1.1.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/compewter/dns_spoof.git"
+  },
+  "author": "Michael Wetherald",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/compewter/dns_spoof/issues"
+  },
+  "homepage": "https://github.com/compewter/dns_spoof#readme"
+}
